@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/src">
+        <file>img/radar.png</file>
+    </qresource>
+</RCC>
